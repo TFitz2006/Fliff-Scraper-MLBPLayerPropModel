@@ -1,0 +1,4662 @@
+[
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 3.08,
+    "favorability": 1.58,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 2.73,
+    "favorability": 1.23,
+    "over_odds": "-130",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 1.64,
+    "favorability": 1.14,
+    "over_odds": "-150",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 2.63,
+    "favorability": 1.13,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 2.5,
+    "favorability": 1.0,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 2.47,
+    "favorability": 0.97,
+    "over_odds": "-170",
+    "under_odds": "+115"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 2.47,
+    "favorability": 0.97,
+    "over_odds": "-150",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 2.45,
+    "favorability": 0.95,
+    "over_odds": "-180",
+    "under_odds": "+125"
+  },
+  {
+    "player": "Dustin May",
+    "category": "PITCHER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 4.5,
+    "predicted": 5.41,
+    "favorability": 0.91,
+    "over_odds": "-110",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 2.41,
+    "favorability": 0.91,
+    "over_odds": "-160",
+    "under_odds": "+110"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 2.32,
+    "favorability": 0.82,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 1.3,
+    "favorability": 0.8,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 2.27,
+    "favorability": 0.77,
+    "over_odds": "-150",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 1.25,
+    "favorability": 0.75,
+    "over_odds": "-235",
+    "under_odds": "+160"
+  },
+  {
+    "player": "Nick Pivetta",
+    "category": "PITCHER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 5.5,
+    "predicted": 6.23,
+    "favorability": 0.73,
+    "over_odds": "-160",
+    "under_odds": "+110"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 1.22,
+    "favorability": 0.72,
+    "over_odds": "-150",
+    "under_odds": "+100"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 1.19,
+    "favorability": 0.69,
+    "over_odds": "-255",
+    "under_odds": "+170"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 2.19,
+    "favorability": 0.69,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 1.18,
+    "favorability": 0.68,
+    "over_odds": "-200",
+    "under_odds": "+140"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 2.5,
+    "predicted": 3.17,
+    "favorability": 0.67,
+    "over_odds": "+100",
+    "under_odds": "-150"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 2.16,
+    "favorability": 0.66,
+    "over_odds": "-110",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 2.11,
+    "favorability": 0.61,
+    "over_odds": "+150",
+    "under_odds": "-220"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 1.1,
+    "favorability": 0.6,
+    "over_odds": "-160",
+    "under_odds": "+110"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 2.09,
+    "favorability": 0.59,
+    "over_odds": "-140",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 1.09,
+    "favorability": 0.59,
+    "over_odds": "-230",
+    "under_odds": "+155"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 1.09,
+    "favorability": 0.59,
+    "over_odds": "-110",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 1.05,
+    "favorability": 0.55,
+    "over_odds": "+110",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 2.05,
+    "favorability": 0.55,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 1.04,
+    "favorability": 0.54,
+    "over_odds": "-190",
+    "under_odds": "+130"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 1.04,
+    "favorability": 0.54,
+    "over_odds": "-185",
+    "under_odds": "+125"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 1.03,
+    "favorability": 0.53,
+    "over_odds": "-240",
+    "under_odds": "+160"
+  },
+  {
+    "player": "Emerson Hancock",
+    "category": "PITCHER EARNED RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 2.5,
+    "predicted": 3.03,
+    "favorability": 0.53,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 1.02,
+    "favorability": 0.52,
+    "over_odds": "-215",
+    "under_odds": "+145"
+  },
+  {
+    "player": "Dustin May",
+    "category": "PITCHER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 2.0,
+    "favorability": 0.5,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.99,
+    "favorability": 0.49,
+    "over_odds": "-130",
+    "under_odds": "-110"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.98,
+    "favorability": 0.48,
+    "over_odds": "-220",
+    "under_odds": "+150"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.98,
+    "favorability": 0.48,
+    "over_odds": "-200",
+    "under_odds": "+135"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.97,
+    "favorability": 0.47,
+    "over_odds": "-255",
+    "under_odds": "+170"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.97,
+    "favorability": 0.47,
+    "over_odds": "-225",
+    "under_odds": "+155"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.97,
+    "favorability": 0.47,
+    "over_odds": "-200",
+    "under_odds": "+140"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.97,
+    "favorability": 0.47,
+    "over_odds": "-230",
+    "under_odds": "+155"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.96,
+    "favorability": 0.46,
+    "over_odds": "-200",
+    "under_odds": "+140"
+  },
+  {
+    "player": "Yusei Kikuchi",
+    "category": "PITCHER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 2.5,
+    "predicted": 2.95,
+    "favorability": 0.45,
+    "over_odds": "+135",
+    "under_odds": "-200"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.95,
+    "favorability": 0.45,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.95,
+    "favorability": 0.45,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.94,
+    "favorability": 0.44,
+    "over_odds": "-105",
+    "under_odds": "-140"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.94,
+    "favorability": 0.44,
+    "over_odds": "-175",
+    "under_odds": "+120"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.93,
+    "favorability": 0.43,
+    "over_odds": "+135",
+    "under_odds": "-195"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.93,
+    "favorability": 0.43,
+    "over_odds": "-165",
+    "under_odds": "+115"
+  },
+  {
+    "player": "Merrill Kelly",
+    "category": "PITCHER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.92,
+    "favorability": 0.42,
+    "over_odds": "-105",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.91,
+    "favorability": 0.41,
+    "over_odds": "+160",
+    "under_odds": "-240"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.9,
+    "favorability": 0.4,
+    "over_odds": "+130",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.88,
+    "favorability": 0.38,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.88,
+    "favorability": 0.38,
+    "over_odds": "+130",
+    "under_odds": "-190"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.86,
+    "favorability": 0.36,
+    "over_odds": "-140",
+    "under_odds": "+100"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.86,
+    "favorability": 0.36,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.85,
+    "favorability": 0.35,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.84,
+    "favorability": 0.34,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.84,
+    "favorability": 0.34,
+    "over_odds": "-140",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.84,
+    "favorability": 0.34,
+    "over_odds": "+130",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.83,
+    "favorability": 0.33,
+    "over_odds": "-140",
+    "under_odds": "+100"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.83,
+    "favorability": 0.33,
+    "over_odds": "-195",
+    "under_odds": "+135"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.82,
+    "favorability": 0.32,
+    "over_odds": "-255",
+    "under_odds": "+170"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.82,
+    "favorability": 0.32,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.82,
+    "favorability": 0.32,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.81,
+    "favorability": 0.31,
+    "over_odds": "+145",
+    "under_odds": "-210"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.8,
+    "favorability": 0.3,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.79,
+    "favorability": 0.29,
+    "over_odds": "-140",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.79,
+    "favorability": 0.29,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.79,
+    "favorability": 0.29,
+    "over_odds": "-255",
+    "under_odds": "+170"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.78,
+    "favorability": 0.28,
+    "over_odds": "+110",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.78,
+    "favorability": 0.28,
+    "over_odds": "-175",
+    "under_odds": "+120"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.78,
+    "favorability": 0.28,
+    "over_odds": "-135",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.77,
+    "favorability": 0.27,
+    "over_odds": "-185",
+    "under_odds": "+125"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.77,
+    "favorability": 0.27,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.77,
+    "favorability": 0.27,
+    "over_odds": "-200",
+    "under_odds": "+140"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.77,
+    "favorability": 0.27,
+    "over_odds": "+230",
+    "under_odds": "-360"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.77,
+    "favorability": 0.27,
+    "over_odds": "-160",
+    "under_odds": "+110"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.77,
+    "favorability": 0.27,
+    "over_odds": "+145",
+    "under_odds": "-210"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.76,
+    "favorability": 0.26,
+    "over_odds": "+160",
+    "under_odds": "-235"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.76,
+    "favorability": 0.26,
+    "over_odds": "-215",
+    "under_odds": "+150"
+  },
+  {
+    "player": "Merrill Kelly",
+    "category": "PITCHER EARNED RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 2.5,
+    "predicted": 2.76,
+    "favorability": 0.26,
+    "over_odds": "+100",
+    "under_odds": "-140"
+  },
+  {
+    "player": "Emerson Hancock",
+    "category": "PITCHER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 3.5,
+    "predicted": 3.76,
+    "favorability": 0.26,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.76,
+    "favorability": 0.26,
+    "over_odds": "-135",
+    "under_odds": "-110"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.75,
+    "favorability": 0.25,
+    "over_odds": "+100",
+    "under_odds": "-150"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.74,
+    "favorability": 0.24,
+    "over_odds": "-150",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.72,
+    "favorability": 0.22,
+    "over_odds": "+175",
+    "under_odds": "-265"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.72,
+    "favorability": 0.22,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.7,
+    "favorability": 0.2,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.7,
+    "favorability": 0.2,
+    "over_odds": "+125",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.7,
+    "favorability": 0.2,
+    "over_odds": "-225",
+    "under_odds": "+150"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.69,
+    "favorability": 0.19,
+    "over_odds": "+135",
+    "under_odds": "-200"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.69,
+    "favorability": 0.19,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Emerson Hancock",
+    "category": "PITCHER HITS ALLOWED",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 5.5,
+    "predicted": 5.69,
+    "favorability": 0.19,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.69,
+    "favorability": 0.19,
+    "over_odds": "-190",
+    "under_odds": "+130"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.68,
+    "favorability": 0.18,
+    "over_odds": "+150",
+    "under_odds": "-220"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.68,
+    "favorability": 0.18,
+    "over_odds": "-205",
+    "under_odds": "+140"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.67,
+    "favorability": 0.17,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.67,
+    "favorability": 0.17,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.66,
+    "favorability": 0.16,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.66,
+    "favorability": 0.16,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.66,
+    "favorability": 0.16,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.65,
+    "favorability": 0.15,
+    "over_odds": "-255",
+    "under_odds": "+170"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.65,
+    "favorability": 0.15,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.65,
+    "favorability": 0.15,
+    "over_odds": "-165",
+    "under_odds": "+115"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.65,
+    "favorability": 0.15,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.65,
+    "favorability": 0.15,
+    "over_odds": "+205",
+    "under_odds": "-315"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.64,
+    "favorability": 0.14,
+    "over_odds": "+100",
+    "under_odds": "-150"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.63,
+    "favorability": 0.13,
+    "over_odds": "-110",
+    "under_odds": "-130"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.63,
+    "favorability": 0.13,
+    "over_odds": "+110",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.63,
+    "favorability": 0.13,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.63,
+    "favorability": 0.13,
+    "over_odds": "-135",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.63,
+    "favorability": 0.13,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.62,
+    "favorability": 0.12,
+    "over_odds": "-200",
+    "under_odds": "+140"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.62,
+    "favorability": 0.12,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.62,
+    "favorability": 0.12,
+    "over_odds": "+150",
+    "under_odds": "-215"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.62,
+    "favorability": 0.12,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.62,
+    "favorability": 0.12,
+    "over_odds": "-200",
+    "under_odds": "+135"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.62,
+    "favorability": 0.12,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.6,
+    "favorability": 0.1,
+    "over_odds": "-115",
+    "under_odds": "-130"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.6,
+    "favorability": 0.1,
+    "over_odds": "-165",
+    "under_odds": "+115"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.6,
+    "favorability": 0.1,
+    "over_odds": "-110",
+    "under_odds": "-130"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.59,
+    "favorability": 0.09,
+    "over_odds": "+150",
+    "under_odds": "-225"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.59,
+    "favorability": 0.09,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.58,
+    "favorability": 0.08,
+    "over_odds": "+135",
+    "under_odds": "-195"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.58,
+    "favorability": 0.08,
+    "over_odds": "-205",
+    "under_odds": "+140"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.58,
+    "favorability": 0.08,
+    "over_odds": "-140",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.57,
+    "favorability": 0.07,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.57,
+    "favorability": 0.07,
+    "over_odds": "+130",
+    "under_odds": "-190"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.57,
+    "favorability": 0.07,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.56,
+    "favorability": 0.06,
+    "over_odds": "-105",
+    "under_odds": "-140"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.56,
+    "favorability": 0.06,
+    "over_odds": "-185",
+    "under_odds": "+125"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.56,
+    "favorability": 0.06,
+    "over_odds": "+195",
+    "under_odds": "-295"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.55,
+    "favorability": 0.05,
+    "over_odds": "+125",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.55,
+    "favorability": 0.05,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.54,
+    "favorability": 0.04,
+    "over_odds": "+165",
+    "under_odds": "-245"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.54,
+    "favorability": 0.04,
+    "over_odds": "+195",
+    "under_odds": "-295"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.54,
+    "favorability": 0.04,
+    "over_odds": "-200",
+    "under_odds": "+135"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.53,
+    "favorability": 0.03,
+    "over_odds": "+195",
+    "under_odds": "-295"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.52,
+    "favorability": 0.02,
+    "over_odds": "+165",
+    "under_odds": "-240"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.52,
+    "favorability": 0.02,
+    "over_odds": "+165",
+    "under_odds": "-240"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.52,
+    "favorability": 0.02,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.51,
+    "favorability": 0.01,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.51,
+    "favorability": 0.01,
+    "over_odds": "-135",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Nick Pivetta",
+    "category": "PITCHER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.51,
+    "favorability": 0.01,
+    "over_odds": "-185",
+    "under_odds": "+125"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.51,
+    "favorability": 0.01,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.51,
+    "favorability": 0.01,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.5,
+    "favorability": 0.0,
+    "over_odds": "+135",
+    "under_odds": "-200"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.5,
+    "favorability": 0.0,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.49,
+    "favorability": -0.01,
+    "over_odds": "+120",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Emerson Hancock",
+    "category": "PITCHER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.49,
+    "favorability": -0.01,
+    "over_odds": "-195",
+    "under_odds": "+135"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.49,
+    "favorability": -0.01,
+    "over_odds": "-105",
+    "under_odds": "-140"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.48,
+    "favorability": -0.02,
+    "over_odds": "+105",
+    "under_odds": "-150"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.48,
+    "favorability": -0.02,
+    "over_odds": "-130",
+    "under_odds": "-110"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.48,
+    "favorability": -0.02,
+    "over_odds": "+130",
+    "under_odds": "-190"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.48,
+    "favorability": -0.02,
+    "over_odds": "-135",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.47,
+    "favorability": -0.03,
+    "over_odds": "-105",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.47,
+    "favorability": -0.03,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.47,
+    "favorability": -0.03,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.46,
+    "favorability": -0.04,
+    "over_odds": "+160",
+    "under_odds": "-235"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.46,
+    "favorability": -0.04,
+    "over_odds": "-160",
+    "under_odds": "+110"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.46,
+    "favorability": -0.04,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.46,
+    "favorability": -0.04,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.45,
+    "favorability": -0.05,
+    "over_odds": "+165",
+    "under_odds": "-245"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.45,
+    "favorability": -0.05,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.45,
+    "favorability": -0.05,
+    "over_odds": "+190",
+    "under_odds": "-290"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.45,
+    "favorability": -0.05,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.45,
+    "favorability": -0.05,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.45,
+    "favorability": -0.05,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.45,
+    "favorability": -0.05,
+    "over_odds": "+165",
+    "under_odds": "-240"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.44,
+    "favorability": -0.06,
+    "over_odds": "+185",
+    "under_odds": "-280"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.44,
+    "favorability": -0.06,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.44,
+    "favorability": -0.06,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.44,
+    "favorability": -0.06,
+    "over_odds": "+110",
+    "under_odds": "-160"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.44,
+    "favorability": -0.06,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.43,
+    "favorability": -0.07,
+    "over_odds": "+150",
+    "under_odds": "-220"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.43,
+    "favorability": -0.07,
+    "over_odds": "+110",
+    "under_odds": "-160"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.42,
+    "favorability": -0.08,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.42,
+    "favorability": -0.08,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.42,
+    "favorability": -0.08,
+    "over_odds": "+170",
+    "under_odds": "-250"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.42,
+    "favorability": -0.08,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.41,
+    "favorability": -0.09,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.41,
+    "favorability": -0.09,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.4,
+    "favorability": -0.1,
+    "over_odds": "+190",
+    "under_odds": "-290"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.39,
+    "favorability": -0.11,
+    "over_odds": "+195",
+    "under_odds": "-300"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.39,
+    "favorability": -0.11,
+    "over_odds": "+195",
+    "under_odds": "-295"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.38,
+    "favorability": -0.12,
+    "over_odds": "+110",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.38,
+    "favorability": -0.12,
+    "over_odds": "+170",
+    "under_odds": "-250"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.38,
+    "favorability": -0.12,
+    "over_odds": "+135",
+    "under_odds": "-200"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.38,
+    "favorability": -0.12,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.38,
+    "favorability": -0.12,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.38,
+    "favorability": -0.12,
+    "over_odds": "+130",
+    "under_odds": "-190"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.37,
+    "favorability": -0.13,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.37,
+    "favorability": -0.13,
+    "over_odds": "-105",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.37,
+    "favorability": -0.13,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.37,
+    "favorability": -0.13,
+    "over_odds": "+145",
+    "under_odds": "-215"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 2.5,
+    "predicted": 2.36,
+    "favorability": -0.14,
+    "over_odds": "+110",
+    "under_odds": "-160"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.36,
+    "favorability": -0.14,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.36,
+    "favorability": -0.14,
+    "over_odds": "+175",
+    "under_odds": "-260"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.36,
+    "favorability": -0.14,
+    "over_odds": "+220",
+    "under_odds": "-340"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.36,
+    "favorability": -0.14,
+    "over_odds": "+415",
+    "under_odds": "-805"
+  },
+  {
+    "player": "Yusei Kikuchi",
+    "category": "PITCHER EARNED RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 2.5,
+    "predicted": 2.35,
+    "favorability": -0.15,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.35,
+    "favorability": -0.15,
+    "over_odds": "+385",
+    "under_odds": "-710"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.35,
+    "favorability": -0.15,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.34,
+    "favorability": -0.16,
+    "over_odds": "+290",
+    "under_odds": "-480"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.34,
+    "favorability": -0.16,
+    "over_odds": "+125",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.34,
+    "favorability": -0.16,
+    "over_odds": "+310",
+    "under_odds": "-530"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.33,
+    "favorability": -0.17,
+    "over_odds": "+125",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.33,
+    "favorability": -0.17,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.33,
+    "favorability": -0.17,
+    "over_odds": "+155",
+    "under_odds": "-230"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.33,
+    "favorability": -0.17,
+    "over_odds": "+190",
+    "under_odds": "-285"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.33,
+    "favorability": -0.17,
+    "over_odds": "+220",
+    "under_odds": "-340"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.33,
+    "favorability": -0.17,
+    "over_odds": "+575",
+    "under_odds": "-1255"
+  },
+  {
+    "player": "Yusei Kikuchi",
+    "category": "PITCHER HITS ALLOWED",
+    "matchup": "Athletics vs LA Angels",
+    "line": 5.5,
+    "predicted": 5.32,
+    "favorability": -0.18,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.32,
+    "favorability": -0.18,
+    "over_odds": "+190",
+    "under_odds": "-290"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.32,
+    "favorability": -0.18,
+    "over_odds": "+210",
+    "under_odds": "-320"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.32,
+    "favorability": -0.18,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.32,
+    "favorability": -0.18,
+    "over_odds": "+240",
+    "under_odds": "-380"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.31,
+    "favorability": -0.19,
+    "over_odds": "+415",
+    "under_odds": "-795"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.31,
+    "favorability": -0.19,
+    "over_odds": "+150",
+    "under_odds": "-220"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.31,
+    "favorability": -0.19,
+    "over_odds": "+440",
+    "under_odds": "-870"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.3,
+    "favorability": -0.2,
+    "over_odds": "+235",
+    "under_odds": "-365"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.3,
+    "favorability": -0.2,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.3,
+    "favorability": -0.2,
+    "over_odds": "+285",
+    "under_odds": "-465"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.3,
+    "favorability": -0.2,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.3,
+    "favorability": -0.2,
+    "over_odds": "+165",
+    "under_odds": "-240"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.29,
+    "favorability": -0.21,
+    "over_odds": "+180",
+    "under_odds": "-270"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.29,
+    "favorability": -0.21,
+    "over_odds": "-180",
+    "under_odds": "+125"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.29,
+    "favorability": -0.21,
+    "over_odds": "-140",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.29,
+    "favorability": -0.21,
+    "over_odds": "+725",
+    "under_odds": "-1835"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.29,
+    "favorability": -0.21,
+    "over_odds": "+250",
+    "under_odds": "-395"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.29,
+    "favorability": -0.21,
+    "over_odds": "+210",
+    "under_odds": "-320"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.28,
+    "favorability": -0.22,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.28,
+    "favorability": -0.22,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.28,
+    "favorability": -0.22,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "+135",
+    "under_odds": "-200"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "-150",
+    "under_odds": "+105"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "+145",
+    "under_odds": "-215"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "+145",
+    "under_odds": "-215"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.27,
+    "favorability": -0.23,
+    "over_odds": "+275",
+    "under_odds": "-445"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.25,
+    "favorability": -0.25,
+    "over_odds": "+330",
+    "under_odds": "-575"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.25,
+    "favorability": -0.25,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.25,
+    "favorability": -0.25,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.25,
+    "favorability": -0.25,
+    "over_odds": "-155",
+    "under_odds": "+110"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.25,
+    "favorability": -0.25,
+    "over_odds": "+310",
+    "under_odds": "-520"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.24,
+    "favorability": -0.26,
+    "over_odds": "+265",
+    "under_odds": "-425"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.24,
+    "favorability": -0.26,
+    "over_odds": "+180",
+    "under_odds": "-275"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.24,
+    "favorability": -0.26,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.24,
+    "favorability": -0.26,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.24,
+    "favorability": -0.26,
+    "over_odds": "+120",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.23,
+    "favorability": -0.27,
+    "over_odds": "+490",
+    "under_odds": "-1000"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.23,
+    "favorability": -0.27,
+    "over_odds": "+590",
+    "under_odds": "-1305"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.23,
+    "favorability": -0.27,
+    "over_odds": "+550",
+    "under_odds": "-1175"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.22,
+    "favorability": -0.28,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.22,
+    "favorability": -0.28,
+    "over_odds": "+305",
+    "under_odds": "-515"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.22,
+    "favorability": -0.28,
+    "over_odds": "+110",
+    "under_odds": "-160"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 2.5,
+    "predicted": 2.22,
+    "favorability": -0.28,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.22,
+    "favorability": -0.28,
+    "over_odds": "+575",
+    "under_odds": "-1255"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.21,
+    "favorability": -0.29,
+    "over_odds": "+195",
+    "under_odds": "-295"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.21,
+    "favorability": -0.29,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.21,
+    "favorability": -0.29,
+    "over_odds": "+155",
+    "under_odds": "-230"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.2,
+    "favorability": -0.3,
+    "over_odds": "+335",
+    "under_odds": "-590"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.2,
+    "favorability": -0.3,
+    "over_odds": "+165",
+    "under_odds": "-245"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.2,
+    "favorability": -0.3,
+    "over_odds": "+290",
+    "under_odds": "-480"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.19,
+    "favorability": -0.31,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.19,
+    "favorability": -0.31,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.19,
+    "favorability": -0.31,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.19,
+    "favorability": -0.31,
+    "over_odds": "+145",
+    "under_odds": "-210"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.19,
+    "favorability": -0.31,
+    "over_odds": "+200",
+    "under_odds": "-305"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.18,
+    "favorability": -0.32,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.18,
+    "favorability": -0.32,
+    "over_odds": "+250",
+    "under_odds": "-400"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.18,
+    "favorability": -0.32,
+    "over_odds": "+530",
+    "under_odds": "-1130"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.18,
+    "favorability": -0.32,
+    "over_odds": "+1240",
+    "under_odds": "-3425"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.18,
+    "favorability": -0.32,
+    "over_odds": "+580",
+    "under_odds": "-1290"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.18,
+    "favorability": -0.32,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.18,
+    "favorability": -0.32,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.17,
+    "favorability": -0.33,
+    "over_odds": "+175",
+    "under_odds": "-260"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.17,
+    "favorability": -0.33,
+    "over_odds": "+630",
+    "under_odds": "-1450"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.17,
+    "favorability": -0.33,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.17,
+    "favorability": -0.33,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.16,
+    "favorability": -0.34,
+    "over_odds": "+230",
+    "under_odds": "-360"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.16,
+    "favorability": -0.34,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.16,
+    "favorability": -0.34,
+    "over_odds": "+185",
+    "under_odds": "-280"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.15,
+    "favorability": -0.35,
+    "over_odds": "+260",
+    "under_odds": "-415"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.15,
+    "favorability": -0.35,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.15,
+    "favorability": -0.35,
+    "over_odds": "+145",
+    "under_odds": "-215"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.15,
+    "favorability": -0.35,
+    "over_odds": "+165",
+    "under_odds": "-245"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.15,
+    "favorability": -0.35,
+    "over_odds": "+235",
+    "under_odds": "-370"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.14,
+    "favorability": -0.36,
+    "over_odds": "+360",
+    "under_odds": "-650"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.14,
+    "favorability": -0.36,
+    "over_odds": "+260",
+    "under_odds": "-415"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.14,
+    "favorability": -0.36,
+    "over_odds": "+510",
+    "under_odds": "-1065"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.14,
+    "favorability": -0.36,
+    "over_odds": "+395",
+    "under_odds": "-745"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.13,
+    "favorability": -0.37,
+    "over_odds": "+170",
+    "under_odds": "-250"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.13,
+    "favorability": -0.37,
+    "over_odds": "+165",
+    "under_odds": "-240"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.13,
+    "favorability": -0.37,
+    "over_odds": "+165",
+    "under_odds": "-245"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.12,
+    "favorability": -0.38,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.12,
+    "favorability": -0.38,
+    "over_odds": "+505",
+    "under_odds": "-1045"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.12,
+    "favorability": -0.38,
+    "over_odds": "+460",
+    "under_odds": "-925"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.12,
+    "favorability": -0.38,
+    "over_odds": "+355",
+    "under_odds": "-635"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.11,
+    "favorability": -0.39,
+    "over_odds": "+505",
+    "under_odds": "-1045"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.11,
+    "favorability": -0.39,
+    "over_odds": "+350",
+    "under_odds": "-630"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER RBIS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.11,
+    "favorability": -0.39,
+    "over_odds": "+385",
+    "under_odds": "-720"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.11,
+    "favorability": -0.39,
+    "over_odds": "+275",
+    "under_odds": "-445"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.11,
+    "favorability": -0.39,
+    "over_odds": "+275",
+    "under_odds": "-450"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.11,
+    "favorability": -0.39,
+    "over_odds": "+520",
+    "under_odds": "-1090"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+470",
+    "under_odds": "-950"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+135",
+    "under_odds": "-195"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+135",
+    "under_odds": "-195"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+250",
+    "under_odds": "-400"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+165",
+    "under_odds": "-245"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.1,
+    "favorability": -0.4,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+925",
+    "under_odds": "-2495"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+150",
+    "under_odds": "-215"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+330",
+    "under_odds": "-565"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+600",
+    "under_odds": "-1350"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+945",
+    "under_odds": "-2550"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.1,
+    "favorability": -0.4,
+    "over_odds": "+225",
+    "under_odds": "-350"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.09,
+    "favorability": -0.41,
+    "over_odds": "+565",
+    "under_odds": "-1230"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.09,
+    "favorability": -0.41,
+    "over_odds": "+210",
+    "under_odds": "-320"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.09,
+    "favorability": -0.41,
+    "over_odds": "+455",
+    "under_odds": "-910"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER WALKS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.09,
+    "favorability": -0.41,
+    "over_odds": "+195",
+    "under_odds": "-295"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.09,
+    "favorability": -0.41,
+    "over_odds": "+200",
+    "under_odds": "-305"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.08,
+    "favorability": -0.42,
+    "over_odds": "+175",
+    "under_odds": "-260"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER WALKS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.08,
+    "favorability": -0.42,
+    "over_odds": "+190",
+    "under_odds": "-290"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.08,
+    "favorability": -0.42,
+    "over_odds": "+540",
+    "under_odds": "-1155"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.08,
+    "favorability": -0.42,
+    "over_odds": "+735",
+    "under_odds": "-1875"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.07,
+    "favorability": -0.43,
+    "over_odds": "+1210",
+    "under_odds": "-3340"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.07,
+    "favorability": -0.43,
+    "over_odds": "+465",
+    "under_odds": "-935"
+  },
+  {
+    "player": "Emerson Hancock",
+    "category": "PITCHER OUTS RECORDED",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 14.5,
+    "predicted": 14.07,
+    "favorability": -0.43,
+    "over_odds": "-200",
+    "under_odds": "+135"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.06,
+    "favorability": -0.44,
+    "over_odds": "+705",
+    "under_odds": "-1750"
+  },
+  {
+    "player": "Nick Pivetta",
+    "category": "PITCHER OUTS RECORDED",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 17.5,
+    "predicted": 17.06,
+    "favorability": -0.44,
+    "over_odds": "-110",
+    "under_odds": "-130"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.06,
+    "favorability": -0.44,
+    "over_odds": "-240",
+    "under_odds": "+165"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.06,
+    "favorability": -0.44,
+    "over_odds": "+550",
+    "under_odds": "-1175"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.06,
+    "favorability": -0.44,
+    "over_odds": "+735",
+    "under_odds": "-1875"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.05,
+    "favorability": -0.45,
+    "over_odds": "+440",
+    "under_odds": "-875"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.05,
+    "favorability": -0.45,
+    "over_odds": "+685",
+    "under_odds": "-1670"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.05,
+    "favorability": -0.45,
+    "over_odds": "+200",
+    "under_odds": "-300"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.05,
+    "favorability": -0.45,
+    "over_odds": "+1020",
+    "under_odds": "-2760"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.05,
+    "favorability": -0.45,
+    "over_odds": "+600",
+    "under_odds": "-1340"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+555",
+    "under_odds": "-1200"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+1325",
+    "under_odds": "-3690"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+875",
+    "under_odds": "-2355"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+500",
+    "under_odds": "-1040"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+1020",
+    "under_odds": "-2760"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+1485",
+    "under_odds": "-4215"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+695",
+    "under_odds": "-1715"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.04,
+    "favorability": -0.46,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+715",
+    "under_odds": "-1800"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+1910",
+    "under_odds": "-5650"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+170",
+    "under_odds": "-250"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+495",
+    "under_odds": "-1010"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 1.03,
+    "favorability": -0.47,
+    "over_odds": "+180",
+    "under_odds": "-265"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+755",
+    "under_odds": "-1985"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+1870",
+    "under_odds": "-5520"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+1485",
+    "under_odds": "-4215"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+1210",
+    "under_odds": "-3340"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+865",
+    "under_odds": "-2325"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.03,
+    "favorability": -0.47,
+    "over_odds": "+1210",
+    "under_odds": "-3340"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+1505",
+    "under_odds": "-4270"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+590",
+    "under_odds": "-1320"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+715",
+    "under_odds": "-1800"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER WALKS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+505",
+    "under_odds": "-1045"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+580",
+    "under_odds": "-1270"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+1210",
+    "under_odds": "-3340"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+445",
+    "under_odds": "-885"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 1.02,
+    "favorability": -0.48,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+1210",
+    "under_odds": "-3340"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+755",
+    "under_odds": "-1990"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+2335",
+    "under_odds": "-7310"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.02,
+    "favorability": -0.48,
+    "over_odds": "+1685",
+    "under_odds": "-4855"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 1.01,
+    "favorability": -0.49,
+    "over_odds": "+200",
+    "under_odds": "-305"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.01,
+    "favorability": -0.49,
+    "over_odds": "+925",
+    "under_odds": "-2500"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.01,
+    "favorability": -0.49,
+    "over_odds": "+1210",
+    "under_odds": "-3340"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.01,
+    "favorability": -0.49,
+    "over_odds": "+1910",
+    "under_odds": "-5650"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.01,
+    "favorability": -0.49,
+    "over_odds": "+1210",
+    "under_odds": "-3340"
+  },
+  {
+    "player": "Jacob Wilson",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-240",
+    "under_odds": "+160"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Brent Rooker",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Mike Trout",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+110",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Nolan Schanuel",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-140",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Taylor Ward",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+110",
+    "under_odds": "-160"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Tyler Soderstrom",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-105",
+    "under_odds": "-140"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+100",
+    "under_odds": "-150"
+  },
+  {
+    "player": "Jo Adell",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+1075",
+    "under_odds": "-2935"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+640",
+    "under_odds": "-1490"
+  },
+  {
+    "player": "Willie MacIver",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+1910",
+    "under_odds": "-5650"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+125",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER HOME RUNS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+540",
+    "under_odds": "-1160"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+210",
+    "under_odds": "-320"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+130",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+585",
+    "under_odds": "-1295"
+  },
+  {
+    "player": "Denzel Clarke",
+    "category": "BATTER SINGLES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+135",
+    "under_odds": "-200"
+  },
+  {
+    "player": "Fernando Tatis Jr.",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-170",
+    "under_odds": "+115"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-240",
+    "under_odds": "+165"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+130",
+    "under_odds": "-190"
+  },
+  {
+    "player": "Manny Machado",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Jackson Merrill",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-130",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-105",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+1485",
+    "under_odds": "-4215"
+  },
+  {
+    "player": "Mookie Betts",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-105",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Xander Bogaerts",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Andy Pages",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+110",
+    "under_odds": "-160"
+  },
+  {
+    "player": "Will Smith",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+110",
+    "under_odds": "-160"
+  },
+  {
+    "player": "Tommy Edman",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+105",
+    "under_odds": "-155"
+  },
+  {
+    "player": "Gavin Sheets",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+115",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Jake Cronenworth",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Max Muncy",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+180",
+    "under_odds": "-270"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER HOME RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+1910",
+    "under_odds": "-5650"
+  },
+  {
+    "player": "Tyler Wade",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER SINGLES",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+140",
+    "under_odds": "-205"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 2.5,
+    "predicted": 2.0,
+    "favorability": -0.5,
+    "over_odds": "-120",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Corbin Carroll",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Ketel Marte",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-125",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-135",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Josh Naylor",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-155",
+    "under_odds": "+105"
+  },
+  {
+    "player": "J.P. Crawford",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-135",
+    "under_odds": "-110"
+  },
+  {
+    "player": "Geraldo Perdomo",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Jorge Polanco",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Cal Raleigh",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+135",
+    "under_odds": "-195"
+  },
+  {
+    "player": "Alek Thomas",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Pavin Smith",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Randy Arozarena",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+105",
+    "under_odds": "-150"
+  },
+  {
+    "player": "Miles Mastrobuoni",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Ben Williamson",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-125",
+    "under_odds": "-115"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER HOME RUNS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+1100",
+    "under_odds": "-3010"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-110",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+1025",
+    "under_odds": "-2785"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+130",
+    "under_odds": "-190"
+  },
+  {
+    "player": "Rowdy Tellez",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "-160",
+    "under_odds": "+110"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER SINGLES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 0.5,
+    "predicted": 0.0,
+    "favorability": -0.5,
+    "over_odds": "+130",
+    "under_odds": "-185"
+  },
+  {
+    "player": "Nick Pivetta",
+    "category": "PITCHER HITS ALLOWED",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 4.5,
+    "predicted": 3.98,
+    "favorability": -0.52,
+    "over_odds": "-135",
+    "under_odds": "-110"
+  },
+  {
+    "player": "Dustin May",
+    "category": "PITCHER EARNED RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 2.5,
+    "predicted": 1.98,
+    "favorability": -0.52,
+    "over_odds": "-105",
+    "under_odds": "-135"
+  },
+  {
+    "player": "Zach Neto",
+    "category": "BATTER HITS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.96,
+    "favorability": -0.54,
+    "over_odds": "+170",
+    "under_odds": "-255"
+  },
+  {
+    "player": "Shohei Ohtani",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 0.9,
+    "favorability": -0.6,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 0.9,
+    "favorability": -0.6,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.88,
+    "favorability": -0.62,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Lourdes Gurriel Jr.",
+    "category": "BATTER HITS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 0.88,
+    "favorability": -0.62,
+    "over_odds": "+175",
+    "under_odds": "-260"
+  },
+  {
+    "player": "Dustin May",
+    "category": "PITCHER OUTS RECORDED",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 17.5,
+    "predicted": 16.87,
+    "favorability": -0.63,
+    "over_odds": "-145",
+    "under_odds": "+100"
+  },
+  {
+    "player": "Lawrence Butler",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.82,
+    "favorability": -0.68,
+    "over_odds": "+120",
+    "under_odds": "-175"
+  },
+  {
+    "player": "Cole Young",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 0.81,
+    "favorability": -0.69,
+    "over_odds": "+130",
+    "under_odds": "-190"
+  },
+  {
+    "player": "Luis Arraez",
+    "category": "BATTER HITS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 0.77,
+    "favorability": -0.73,
+    "over_odds": "+160",
+    "under_odds": "-240"
+  },
+  {
+    "player": "Nick Pivetta",
+    "category": "PITCHER EARNED RUNS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 2.5,
+    "predicted": 1.7,
+    "favorability": -0.8,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Yusei Kikuchi",
+    "category": "PITCHER OUTS RECORDED",
+    "matchup": "Athletics vs LA Angels",
+    "line": 17.5,
+    "predicted": 16.65,
+    "favorability": -0.85,
+    "over_odds": "-135",
+    "under_odds": "-105"
+  },
+  {
+    "player": "Freddie Freeman",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 0.59,
+    "favorability": -0.91,
+    "over_odds": "+190",
+    "under_odds": "-290"
+  },
+  {
+    "player": "Merrill Kelly",
+    "category": "PITCHER STRIKEOUTS",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 5.5,
+    "predicted": 4.58,
+    "favorability": -0.92,
+    "over_odds": "-120",
+    "under_odds": "-120"
+  },
+  {
+    "player": "Scott Kingery",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.55,
+    "favorability": -0.95,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Chris Taylor",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.53,
+    "favorability": -0.97,
+    "over_odds": "+110",
+    "under_odds": "-165"
+  },
+  {
+    "player": "Kevin Newman",
+    "category": "BATTER HITS AND RUNS AND RBIS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.52,
+    "favorability": -0.98,
+    "over_odds": "+115",
+    "under_odds": "-170"
+  },
+  {
+    "player": "Merrill Kelly",
+    "category": "PITCHER HITS ALLOWED",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 5.5,
+    "predicted": 4.52,
+    "favorability": -0.98,
+    "over_odds": "+100",
+    "under_odds": "-145"
+  },
+  {
+    "player": "Hyeseong Kim",
+    "category": "BATTER STRIKEOUTS",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 1.5,
+    "predicted": 0.35,
+    "favorability": -1.15,
+    "over_odds": "+215",
+    "under_odds": "-330"
+  },
+  {
+    "player": "Dustin May",
+    "category": "PITCHER HITS ALLOWED",
+    "matchup": "LA Dodgers vs SD Padres",
+    "line": 5.5,
+    "predicted": 4.2,
+    "favorability": -1.3,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Travis d'Arnaud",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.0,
+    "favorability": -1.5,
+    "over_odds": "-115",
+    "under_odds": "-125"
+  },
+  {
+    "player": "Nick Kurtz",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "Athletics vs LA Angels",
+    "line": 1.5,
+    "predicted": 0.0,
+    "favorability": -1.5,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Jose Herrera",
+    "category": "BATTER STOLEN BASES",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 1.5,
+    "predicted": 0.0,
+    "favorability": -1.5,
+    "over_odds": "+125",
+    "under_odds": "-180"
+  },
+  {
+    "player": "Yusei Kikuchi",
+    "category": "PITCHER STRIKEOUTS",
+    "matchup": "Athletics vs LA Angels",
+    "line": 6.5,
+    "predicted": 4.99,
+    "favorability": -1.51,
+    "over_odds": "+105",
+    "under_odds": "-150"
+  },
+  {
+    "player": "Merrill Kelly",
+    "category": "PITCHER OUTS RECORDED",
+    "matchup": "SEA Mariners vs ARZ Diamondbacks",
+    "line": 18.5,
+    "predicted": 16.78,
+    "favorability": -1.72,
+    "over_odds": "+145",
+    "under_odds": "-210"
+  }
+]
